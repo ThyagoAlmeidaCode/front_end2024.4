@@ -1,0 +1,18 @@
+header{
+    width: auto;
+    height: 56px;
+    padding: 8px 8px 8px 8px;
+    box-shadow: -3px 3px 20px rgba(0, 0, 0, 0.95);
+    background: #2ecc71;
+    border-color: #000000;
+    border-width: 1px;
+    border-style: solid;
+}
+
+main{
+    width: 542px;
+    height: 258px;
+    padding: 8px 8px 8px 8px;
+    background: #FFB4B0;
+    border-radius: 20px 20px 20px 20px;
+}
